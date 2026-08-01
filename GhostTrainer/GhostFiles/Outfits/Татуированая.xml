@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<OutfitPedData>
+	<ClearDecalOverlays>true</ClearDecalOverlays>
+	<ModelHash>0x9c9effd8</ModelHash>
+	<Type>1</Type>
+	<Dynamic>true</Dynamic>
+	<FrozenPos>false</FrozenPos>
+	<HashName>0x9c9effd8</HashName>
+	<InitialHandle>162571</InitialHandle>
+	<PedProperties>
+		<IsStill>false</IsStill>
+		<CanRagdoll>false</CanRagdoll>
+		<HasShortHeight>false</HasShortHeight>
+		<Armour>100</Armour>
+		<CurrentWeapon>0xa2719263</CurrentWeapon>
+		<PedProps>
+			<_0>-1,-1</_0>
+			<_1>-1,-1</_1>
+			<_2>-1,-1</_2>
+			<_3>-1,-1</_3>
+			<_4>-1,-1</_4>
+			<_5>-1,-1</_5>
+			<_6>-1,-1</_6>
+			<_7>-1,-1</_7>
+			<_8>-1,-1</_8>
+			<_9>-1,-1</_9>
+		</PedProps>
+		<PedComps>
+			<_0>0,0</_0>
+			<_1>0,0</_1>
+			<_2>42,0</_2>
+			<_3>15,0</_3>
+			<_4>17,3</_4>
+			<_5>0,0</_5>
+			<_6>35,0</_6>
+			<_7>0,0</_7>
+			<_8>3,0</_8>
+			<_9>0,0</_9>
+			<_10>0,0</_10>
+			<_11>18,3</_11>
+		</PedComps>
+		<HeadFeatures WasInArray="false">
+			<ShapeAndSkinTone>
+				<ShapeFatherId>31</ShapeFatherId>
+				<ShapeMotherId>44</ShapeMotherId>
+				<ShapeOverrideId>0</ShapeOverrideId>
+				<ToneFatherId>31</ToneFatherId>
+				<ToneMotherId>44</ToneMotherId>
+				<ToneOverrideId>0</ToneOverrideId>
+				<ShapeVal>0.0500000007</ShapeVal>
+				<ToneVal>0.818172038</ToneVal>
+				<OverrideVal>0</OverrideVal>
+				<IsP>1</IsP>
+			</ShapeAndSkinTone>
+		</HeadFeatures>
+		<TattooLogoDecals>
+			<:anonymous collection="0xae7085b3" value="0x16bcc01c" />
+			<:anonymous collection="0xea4fc353" value="0x8f508c56" />
+			<:anonymous collection="0xea4fc353" value="0xb0489074" />
+			<:anonymous collection="0xea4fc353" value="0x2e6b5587" />
+			<:anonymous collection="0xea4fc353" value="0x84a09ed4" />
+			<:anonymous collection="0x23a7a83b" value="0x7c2ff893" />
+			<:anonymous collection="0xffe0288b" value="0xf5892dbf" />
+			<:anonymous collection="0x23a7a83b" value="0xbd05085b" />
+			<:anonymous collection="0x23a7a83b" value="0x3b11766f" />
+			<:anonymous collection="0x23a7a83b" value="0x210bd06b" />
+			<:anonymous collection="0x23a7a83b" value="0x5aa44397" />
+			<:anonymous collection="0x23a7a83b" value="0x61c2e2b6" />
+			<:anonymous collection="0xea4fc353" value="0xaaf56ac2" />
+			<:anonymous collection="0x5b259c93" value="0xf7e5e321" />
+			<:anonymous collection="0x23a7a83b" value="0x4980134c" />
+			<:anonymous collection="0x23a7a83b" value="0xc7df8ff1" />
+			<:anonymous collection="0xae7085b3" value="0xa5651c78" />
+			<:anonymous collection="0xae7085b3" value="0x7c62cca3" />
+			<:anonymous collection="0xea4fc353" value="0x96e5df30" />
+			<:anonymous collection="0x23a7a83b" value="0x85599905" />
+			<:anonymous collection="0xc3691af4" value="0x6bb82011" />
+			<:anonymous collection="0x3d344bfc" value="0xb48decee" />
+			<:anonymous collection="0xf1ae4fcd" value="0x2c75b72a" />
+			<:anonymous collection="0xffe0288b" value="0x3ea6d97a" />
+			<:anonymous collection="0x8024279f" value="0xc6841c36" />
+			<:anonymous collection="0xac9ef2ce" value="0xd7db0476" />
+			<:anonymous collection="0x23a7a83b" value="0xd0bbafc8" />
+			<:anonymous collection="0x23a7a83b" value="0xa20c5a86" />
+			<:anonymous collection="0x1ce4c2e8" value="0xc673c4da" />
+		</TattooLogoDecals>
+		<RelationshipGroupAltered>false</RelationshipGroupAltered>
+		<RelationshipGroup>0x11cff471</RelationshipGroup>
+		<ScenarioActive>false</ScenarioActive>
+		<AnimActive>false</AnimActive>
+	</PedProperties>
+	<OpacityLevel>255</OpacityLevel>
+	<LodDistance>240</LodDistance>
+	<IsVisible>true</IsVisible>
+	<MaxHealth>320</MaxHealth>
+	<Health>320</Health>
+	<HasGravity>true</HasGravity>
+	<IsOnFire>false</IsOnFire>
+	<IsInvincible>false</IsInvincible>
+	<IsBulletProof>false</IsBulletProof>
+	<IsCollisionProof>false</IsCollisionProof>
+	<IsExplosionProof>false</IsExplosionProof>
+	<IsFireProof>false</IsFireProof>
+	<IsMeleeProof>false</IsMeleeProof>
+	<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+	<PositionRotation>
+		<X>296.420685</X>
+		<Y>318.26416</Y>
+		<Z>105.597549</Z>
+		<Pitch>0</Pitch>
+		<Roll>0</Roll>
+		<Yaw>85.7666702</Yaw>
+	</PositionRotation>
+	<Attachment isAttached="false" />
+	<SpoonerAttachments SetAttachmentsPersistentAndAddToSpoonerDatabase="false" StartTaskSequencesOnLoad="true" />
+</OutfitPedData>

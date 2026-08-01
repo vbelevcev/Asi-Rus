@@ -1,0 +1,9 @@
+<Outfit>
+    <Ped model-hash="0x6a50a7f5"/>
+    <Props/>
+    <Components>
+        <Component name="Face" type="0" index="0" textureIndex="1"/>
+        <Component name="Torso" type="3" index="0" textureIndex="0"/>
+        <Component name="Legs" type="4" index="0" textureIndex="0"/>
+    </Components>
+</Outfit>

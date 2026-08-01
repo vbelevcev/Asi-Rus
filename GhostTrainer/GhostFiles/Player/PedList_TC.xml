@@ -1,0 +1,1013 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<PedList>
+	<Category name="Player">
+		<Ped name="player_zero" caption="麥可" />
+		<Ped name="player_one" caption="富蘭克林" />
+		<Ped name="player_two" caption="崔佛" />
+		<Ped name="mp_f_freemode_01" caption="線上女性" />
+		<Ped name="mp_m_freemode_01" caption="線上男性" />		
+	</Category>
+	<Category name="Animal">
+	    <Ped name="a_c_boar" caption="野豬" />
+		<Ped name="a_c_cat_01" caption="貓" />
+		<Ped name="a_c_chickenhawk" caption="鷹" />
+		<Ped name="a_c_chimp" caption="黑猩猩" />
+		<Ped name="a_c_chop" caption="小查" />
+		<Ped name="a_c_chop_02" caption="小查 2" />
+		<Ped name="a_c_cormorant" caption="鸕鶿" />
+		<Ped name="a_c_cow" caption="牛" />
+		<Ped name="a_c_coyote" caption="郊狼" />
+		<Ped name="a_c_crow" caption="烏鴉" />
+		<Ped name="a_c_deer" caption="鹿" />
+		<Ped name="a_c_dolphin" caption="海豚" />
+		<Ped name="a_c_fish" caption="魚" />
+		<Ped name="a_c_hen" caption="雞" />
+		<Ped name="a_c_humpback" caption="座頭鯨" />
+		<Ped name="a_c_husky" caption="哈士奇" />
+		<Ped name="a_c_killerwhale" caption="虎鯨" />
+		<Ped name="a_c_mtlion" caption="山獅" />
+        <Ped name="a_c_panther" caption="美洲豹" />
+		<Ped name="a_c_pig" caption="豬" />
+		<Ped name="a_c_pigeon" caption="鴿子" />
+		<Ped name="a_c_poodle" caption="貴賓犬" />
+		<Ped name="a_c_pug" caption="八哥犬" />
+		<Ped name="a_c_rabbit_01" caption="兔子" />
+		<Ped name="a_c_rat" caption="鼠" />
+		<Ped name="a_c_retriever" caption="金毛犬" />
+		<Ped name="a_c_rhesus" caption="獼猴" />
+		<Ped name="a_c_rottweiler" caption="羅威納犬" />
+		<Ped name="a_c_seagull" caption="海鷗" />
+		<Ped name="a_c_stingray" caption="魔鬼魚" />
+		<Ped name="a_c_sharkhammer" caption="斧頭鯊" />
+		<Ped name="a_c_sharktiger" caption="虎鯊" />
+		<Ped name="a_c_shepherd" caption="澳大利亞牧羊犬" />
+		<Ped name="a_c_westy" caption="高地埂" />
+	</Category>
+	<Category name="AmbientFemale">
+		<Ped name="a_f_m_beach_01" caption="沙灘女性" />
+		<Ped name="a_f_m_trampbeac_01" caption="沙灘流浪女性" />
+		<Ped name="a_f_y_beach_01" caption="沙灘年輕女性" />
+        <Ped name="a_f_y_beach_02" caption="沙灘年輕女性 2" />
+		<Ped name="a_f_m_bevhills_01" caption="比佛利山女性" />
+		<Ped name="a_f_m_bevhills_02" caption="比佛利山女性 2" />
+		<Ped name="a_f_y_bevhills_01" caption="比佛利山年輕女性" />
+		<Ped name="a_f_y_bevhills_02" caption="比佛利山年輕女性 2" />
+		<Ped name="a_f_y_bevhills_03" caption="比佛利山年輕女性 3" />
+		<Ped name="a_f_y_bevhills_04" caption="比佛利山年輕女性 4" />
+		<Ped name="a_f_y_bevhills_05" caption="比佛利山年輕女性 5" />
+		<Ped name="a_f_m_bodybuild_01" caption="健美女性" />
+		<Ped name="a_f_m_business_02" caption="女商人" />
+		<Ped name="a_f_y_business_01" caption="年輕女商人" />
+		<Ped name="a_f_y_business_02" caption="年輕女商人 2" />
+		<Ped name="a_f_y_business_03" caption="年輕女商人 3" />
+		<Ped name="a_f_y_business_04" caption="年輕女商人 4" />
+		<Ped name="a_f_y_carclub_01" caption="車聚女成員" />
+		<Ped name="a_f_m_downtown_01" caption="市區女性" />
+		<Ped name="a_f_y_scdressy_01" caption="華服女" />
+		<Ped name="a_f_m_eastsa_01" caption="聖安地列斯東部女性" />
+		<Ped name="a_f_m_eastsa_02" caption="聖安地列斯東部女性 2" />
+		<Ped name="a_f_y_eastsa_01" caption="聖安地列斯東部年輕女性" />
+		<Ped name="a_f_y_eastsa_02" caption="聖安地列斯東部年輕女性 2" />
+		<Ped name="a_f_y_eastsa_03" caption="聖安地列斯東部年輕女性 3" />
+		<Ped name="a_f_y_epsilon_01" caption="邪教女" />
+		<Ped name="a_f_m_fatbla_01" caption="肥胖黑人女性" />
+		<Ped name="a_f_m_fatcult_01" caption="肥胖邪教女" />
+		<Ped name="a_f_m_fatwhite_01" caption="肥胖白人女性" />
+		<Ped name="a_f_y_femaleagent" caption="女特工" />
+		<Ped name="a_f_y_fitness_01" caption="健身女" />
+		<Ped name="a_f_y_fitness_02" caption="健身女 2" />
+		<Ped name="a_f_y_genhot_01" caption="普通年輕美女" />
+		<Ped name="a_f_o_genstreet_01" caption="普通街頭老婦" />
+		<Ped name="a_f_y_gencaspat_01" caption="休閒裝女賭客" />
+		<Ped name="a_f_y_smartcaspat_01" caption="正裝賭客" />
+		<Ped name="a_f_y_golfer_01" caption="年輕女高爾夫球手" />
+		<Ped name="a_f_y_hiker_01" caption="女遠足客" />
+		<Ped name="a_f_y_hippie_01" caption="女嬉皮士" />
+		<Ped name="a_f_y_hipster_01" caption="嬉皮女" />
+		<Ped name="a_f_y_hipster_02" caption="嬉皮女 2" />
+		<Ped name="a_f_y_hipster_03" caption="嬉皮女 3" />
+		<Ped name="a_f_y_hipster_04" caption="嬉皮女 4" />
+		<Ped name="a_f_o_indian_01" caption="印度老婦" />
+		<Ped name="a_f_y_indian_01" caption="印度年輕女性" />
+		<Ped name="a_f_y_runner_01" caption="慢跑女" />
+		<Ped name="a_f_y_juggalo_01" caption="臉部塗鴉女" />
+		<Ped name="a_f_m_ktown_01" caption="韓國女性" />
+		<Ped name="a_f_m_ktown_02" caption="韓國女性 2" />
+		<Ped name="a_f_o_ktown_01" caption="韓國老婦" />
+		<Ped name="a_f_m_prolhost_01" caption="序章女主人" />
+		<Ped name="a_f_y_rurmeth_01" caption="農村吸毒女" />
+		<Ped name="a_f_m_salton_01" caption="薩爾頓女性" />
+		<Ped name="a_f_o_salton_01" caption="薩爾頓老婦" />
+		<Ped name="a_f_y_skater_01" caption="女滑板者" />
+		<Ped name="a_f_m_skidrow_01" caption="貧民區女性" />
+		<Ped name="a_f_m_soucent_01" caption="中南部女性" />
+		<Ped name="a_f_m_soucent_02" caption="中南部女性 2" />
+		<Ped name="a_f_m_soucentmc_01" caption="中南部機車女" />
+		<Ped name="a_f_o_soucent_01" caption="中南部老婦" />
+		<Ped name="a_f_o_soucent_02" caption="中南部老婦 2" />
+		<Ped name="a_f_y_soucent_01" caption="中南部年輕女性" />
+		<Ped name="a_f_y_soucent_02" caption="中南部年輕女性 2" />
+		<Ped name="a_f_y_soucent_03" caption="中南部年輕女性 3" />
+		<Ped name="a_f_y_studioparty_01" caption="事務所派對女性" />
+		<Ped name="a_f_y_studioparty_02" caption="事務所派對女性 2" />
+		<Ped name="a_f_y_tennis_01" caption="女網球手" />
+		<Ped name="a_f_y_topless_01" caption="裸上身女性" />
+		<Ped name="a_f_m_tourist_01" caption="女觀光客" />
+		<Ped name="a_f_y_tourist_01" caption="年輕女觀光客" />
+		<Ped name="a_f_y_tourist_02" caption="年輕女觀光客 2" />
+		<Ped name="a_f_m_tramp_01" caption="流浪女" />
+		<Ped name="a_f_y_vinewood_01" caption="好麥塢女性" />
+		<Ped name="a_f_y_vinewood_02" caption="好麥塢女性 2" />
+		<Ped name="a_f_y_vinewood_03" caption="好麥塢女性 3" />
+		<Ped name="a_f_y_vinewood_04" caption="好麥塢女性 4" />
+		<Ped name="a_f_y_yoga_01" caption="瑜伽女" />
+		<Ped name="a_f_y_clubcust_01" caption="俱樂部女顧客" />
+		<Ped name="a_f_y_clubcust_02" caption="俱樂部女顧客 2" />
+		<Ped name="a_f_y_clubcust_03" caption="俱樂部女顧客 3" />
+        <Ped name="a_f_y_clubcust_04" caption="俱樂部女顧客 4" />
+	</Category>
+	<Category name="AmbientMale">
+		<Ped name="a_m_m_afriamer_01" caption="非裔美國男子" />
+		<Ped name="a_m_m_acult_01" caption="利他邪教中年男子" />
+		<Ped name="a_m_o_acult_01" caption="利他邪教老漢" />
+		<Ped name="a_m_o_acult_02" caption="利他邪教老漢 2" />
+		<Ped name="a_m_y_acult_01" caption="利他邪教年輕男子" />
+		<Ped name="a_m_y_acult_02" caption="利他邪教年輕男子 2" />
+		<Ped name="a_m_m_beach_01" caption="沙灘男性" />
+		<Ped name="a_m_m_beach_02" caption="沙灘男性 2" />
+		<Ped name="a_m_y_carclub_01" caption="車聚男成員" />
+		<Ped name="a_m_y_musclbeac_01" caption="沙灘肌肉男" />
+		<Ped name="a_m_y_musclbeac_02" caption="沙灘肌肉男 2" />
+		<Ped name="a_m_m_mlcrisis_01" caption="中年危機的賭場騎手" />
+		<Ped name="a_m_y_gencaspat_01" caption="休閒裝男賭客" />
+		<Ped name="a_m_y_smartcaspat_01" caption="正裝賭客" />
+		<Ped name="a_m_o_beach_01" caption="沙灘老漢" />
+        <Ped name="a_m_o_beach_02" caption="沙灘老漢 2" />
+		<Ped name="a_m_m_trampbeac_01" caption="沙灘流浪漢" />
+		<Ped name="a_m_y_beach_01" caption="沙灘年輕男性" />
+		<Ped name="a_m_y_beach_02" caption="沙灘年輕男性 2" />
+		<Ped name="a_m_y_beach_03" caption="沙灘年輕男性 3" />
+        <Ped name="a_m_y_beach_04" caption="沙灘年輕男性 4" />
+		<Ped name="a_m_m_bevhills_01" caption="比佛利山男性" />
+		<Ped name="a_m_m_bevhills_02" caption="比佛利山男性 2" />
+		<Ped name="a_m_y_bevhills_01" caption="比佛利山年輕男性" />
+		<Ped name="a_m_y_bevhills_02" caption="比佛利山年輕男性 2" />
+		<Ped name="a_m_y_stbla_01" caption="街頭黑人男性" />
+		<Ped name="a_m_y_stbla_02" caption="街頭黑人男性 2" />
+		<Ped name="a_m_y_breakdance_01" caption="霹靂舞男" />
+		<Ped name="a_m_y_busicas_01" caption="休閒西裝男" />
+		<Ped name="a_m_m_business_01" caption="西裝男性" />
+		<Ped name="a_m_y_business_01" caption="西裝年輕男性" />
+		<Ped name="a_m_y_business_02" caption="西裝年輕男性 2" />
+		<Ped name="a_m_y_business_03" caption="西裝年輕男性 3" />
+		<Ped name="a_m_y_cyclist_01" caption="騎車男" />
+		<Ped name="a_m_y_dhill_01" caption="競速單車騎手" />
+		<Ped name="a_m_y_downtown_01" caption="市區男" />
+		<Ped name="a_m_m_eastsa_01" caption="聖安地列斯東部男性" />
+		<Ped name="a_m_m_eastsa_02" caption="聖安地列斯東部男性 2" />
+		<Ped name="a_m_y_eastsa_01" caption="聖安地列斯東部年輕男性" />
+		<Ped name="a_m_y_eastsa_02" caption="聖安地列斯東部年輕男性 2" />
+		<Ped name="a_m_y_epsilon_01" caption="邪教男" />
+		<Ped name="a_m_y_epsilon_02" caption="邪教男 2" />
+		<Ped name="a_m_m_farmer_01" caption="農夫" />
+		<Ped name="a_m_m_fatlatin_01" caption="肥胖拉丁男性" />
+		<Ped name="a_m_y_gay_01" caption="同性戀男子" />
+		<Ped name="a_m_y_gay_02" caption="同性戀男子 2" />
+		<Ped name="a_m_m_genfat_01" caption="普通肥胖男性" />
+		<Ped name="a_m_m_genfat_02" caption="普通肥胖男性 2" />
+		<Ped name="a_m_o_genstreet_01" caption="普通街頭老漢" />
+		<Ped name="a_m_y_genstreet_01" caption="普通街頭年輕男子" />
+		<Ped name="a_m_y_genstreet_02" caption="普通街頭年輕男子 2" />
+		<Ped name="a_m_m_golfer_01" caption="男高爾夫球手" />
+		<Ped name="a_m_y_golfer_01" caption="年輕男高爾夫球手" />
+		<Ped name="a_m_m_hasjew_01" caption="猶太男子" />
+		<Ped name="a_m_y_hasjew_01" caption="年輕猶太男子" />
+		<Ped name="a_m_y_hiker_01" caption="男遠足客" />
+		<Ped name="a_m_m_hillbilly_01" caption="鄉巴佬" />
+		<Ped name="a_m_m_hillbilly_02" caption="鄉巴佬 2" />
+		<Ped name="a_m_y_hippy_01" caption="男嬉皮士" />
+		<Ped name="a_m_y_hipster_01" caption="嬉皮男" />
+		<Ped name="a_m_y_hipster_02" caption="嬉皮男 2" />
+		<Ped name="a_m_y_hipster_03" caption="嬉皮男 3" />
+		<Ped name="a_m_m_indian_01" caption="印度年輕男性" />
+		<Ped name="a_m_y_indian_01" caption="印度年輕男性" />
+		<Ped name="a_m_y_jetski_01" caption="快艇男" />
+		<Ped name="a_m_y_runner_01" caption="慢跑男" />
+		<Ped name="a_m_y_runner_02" caption="慢跑男 2" />
+		<Ped name="a_m_y_juggalo_01" caption="臉部塗鴉男" />
+		<Ped name="a_m_m_ktown_01" caption="韓國男性" />
+		<Ped name="a_m_o_ktown_01" caption="韓國老漢" />
+		<Ped name="a_m_y_ktown_01" caption="韓國年輕男性" />
+		<Ped name="a_m_y_ktown_02" caption="韓國年輕男性 2" />
+		<Ped name="a_m_m_stlat_02" caption="街頭拉丁男性 2" />
+		<Ped name="a_m_y_stlat_01" caption="街頭拉丁年輕男性" />
+		<Ped name="a_m_y_latino_01" caption="街頭拉丁年輕男性" />
+		<Ped name="a_m_m_malibu_01" caption="馬里佈男性" />
+		<Ped name="a_m_y_methhead_01" caption="吸毒男" />
+		<Ped name="a_m_m_mexlabor_01" caption="墨西哥勞工" />
+		<Ped name="a_m_m_mexcntry_01" caption="墨西哥村夫" />
+		<Ped name="a_m_y_mexthug_01" caption="墨西哥打手" />
+		<Ped name="a_m_y_motox_01" caption="越野摩托車手" />
+		<Ped name="a_m_y_motox_02" caption="越野摩托車手 2" />
+		<Ped name="a_m_m_og_boss_01" caption="老闆" />
+		<Ped name="a_m_m_paparazzi_01" caption="男狗仔" />
+		<Ped name="a_m_m_polynesian_01" caption="波利尼西亞人" />
+		<Ped name="a_m_y_polynesian_01" caption="年輕波利尼西亞人" />
+		<Ped name="a_m_m_prolhost_01" caption="序章男主人" />
+		<Ped name="a_m_y_roadcyc_01" caption="公路騎手" />
+		<Ped name="a_m_m_rurmeth_01" caption="農村吸毒男" />
+		<Ped name="a_m_m_salton_01" caption="薩爾頓男性" />
+		<Ped name="a_m_m_salton_02" caption="薩爾頓男性 2" />
+		<Ped name="a_m_m_salton_03" caption="薩爾頓男性 3" />
+		<Ped name="a_m_m_salton_04" caption="薩爾頓男性 4" />
+		<Ped name="a_m_o_salton_01" caption="薩爾頓老漢" />
+		<Ped name="a_m_y_salton_01" caption="薩爾頓年輕男性" />
+		<Ped name="a_m_m_skater_01" caption="滑板男" />
+		<Ped name="a_m_y_skater_01" caption="年輕滑板男" />
+		<Ped name="a_m_y_skater_02" caption="年輕滑板男 2" />
+		<Ped name="a_m_m_skidrow_01" caption="滑板男" />
+		<Ped name="a_m_m_socenlat_01" caption="中南部男性" />
+		<Ped name="a_m_m_soucent_01" caption="中南部拉丁男性" />
+		<Ped name="a_m_m_soucent_02" caption="中南部拉丁男性 2" />
+		<Ped name="a_m_m_soucent_03" caption="中南部拉丁男性 3" />
+		<Ped name="a_m_m_soucent_04" caption="中南部拉丁男性 4" />
+		<Ped name="a_m_o_soucent_01" caption="中南部老漢" />
+		<Ped name="a_m_o_soucent_02" caption="中南部老漢 2" />
+		<Ped name="a_m_o_soucent_03" caption="中南部老漢 3" />
+		<Ped name="a_m_y_soucent_01" caption="中南部年輕男性" />
+		<Ped name="a_m_y_soucent_02" caption="中南部年輕男性 2" />
+		<Ped name="a_m_y_soucent_03" caption="中南部年輕男性 3" />
+		<Ped name="a_m_y_soucent_04" caption="中南部年輕男性 4" />
+		<Ped name="a_m_m_studioparty_01" caption="事務所派對男性" />
+		<Ped name="a_m_y_studioparty_01" caption="事務所派對男性 2" />
+		<Ped name="a_m_y_sunbathe_01" caption="日光浴男" />
+		<Ped name="a_m_y_surfer_01" caption="衝浪男" />
+		<Ped name="a_m_y_tattoocust_01" caption="紋身師" />
+		<Ped name="a_m_m_tennis_01" caption="男網球手" />
+		<Ped name="a_m_m_tourist_01" caption="男觀光客" />
+		<Ped name="a_m_m_tramp_01" caption="流浪男" />
+		<Ped name="a_m_o_tramp_01" caption="流浪老漢" />
+		<Ped name="a_m_m_tranvest_01" caption="異裝癖男" />
+		<Ped name="a_m_m_tranvest_02" caption="異裝癖男 2" />
+		<Ped name="a_m_y_beachvesp_01" caption="韋斯普奇海灘男性" />
+		<Ped name="a_m_y_beachvesp_02" caption="韋斯普奇海灘男性 2" />
+		<Ped name="a_m_y_vindouche_01" caption="好麥塢園丁" />
+		<Ped name="a_m_y_vinewood_01" caption="好麥塢男性" />
+		<Ped name="a_m_y_vinewood_02" caption="好麥塢男性 2" />
+		<Ped name="a_m_y_vinewood_03" caption="好麥塢男性 3" />
+		<Ped name="a_m_y_vinewood_04" caption="好麥塢男性 4" />
+		<Ped name="a_m_y_stwhi_01" caption="街頭白人男性" />
+		<Ped name="a_m_y_stwhi_02" caption="街頭白人男性 2" />
+		<Ped name="a_m_y_yoga_01" caption="瑜伽男" />
+		<Ped name="a_m_y_clubcust_01" caption="俱樂部男顧客" />
+		<Ped name="a_m_y_clubcust_02" caption="俱樂部男顧客 2" />
+		<Ped name="a_m_y_clubcust_03" caption="俱樂部男顧客 3" />
+        <Ped name="a_m_y_clubcust_04" caption="俱樂部男顧客 4" />
+	</Category>
+	<Category name="Cutscene">
+		<Ped name="csb_abigail" caption="艾比蓋兒" />
+		<Ped name="csb_agatha" caption="阿嘉莎·貝克" />
+		<Ped name="csb_agent" caption="探員" />
+		<Ped name="csb_mp_agent14" caption="探員 14" />
+		<Ped name="csb_alan" caption="艾倫" />
+		<Ped name="cs_amandatownley" caption="亞曼達" />
+		<Ped name="cs_andreas" caption="桑切斯" />
+		<Ped name="csb_anita" caption="門多薩" />
+		<Ped name="csb_anton" caption="安東" />
+		<Ped name="csb_ary" caption="德瑞" />
+		<Ped name="csb_ary_02" caption="德瑞 2" />
+		<Ped name="cs_ashley" caption="艾希莉" />
+		<Ped name="csb_avery" caption="艾佛瑞·杜根" />
+		<Ped name="csb_avon" caption="埃文·赫茲" />
+		<Ped name="csb_ballas_leader" caption="巴勒幫領袖" />
+		<Ped name="csb_ballasog" caption="巴勒幫老大" />
+		<Ped name="cs_bankman" caption="銀行經理" />
+		<Ped name="cs_barry" caption="巴瑞" />
+		<Ped name="cs_beverly" caption="比佛利" />
+		<Ped name="csb_billionaire" caption="億萬富翁" />
+		<Ped name="csb_bogdan" caption="伯格丹" />
+		<Ped name="cs_brad" caption="布萊德" />
+		<Ped name="cs_bradcadaver" caption="布萊德的尸体" />
+		<Ped name="csb_bride" caption="新娘" />
+		<Ped name="csb_brucie2" caption="布魯斯" />
+		<Ped name="csb_bryony" caption="布里歐妮" />
+		<Ped name="csb_burgerdrug" caption="漢堡王吸毒工人" />
+		<Ped name="cs_carbuyer" caption="買車者" />
+		<Ped name="csb_car3guy1" caption="汽修工 1" />
+		<Ped name="csb_car3guy2" caption="汽修工 2" />
+		<Ped name="cs_casey" caption="凱西" />
+		<Ped name="csb_celeb_01" caption="名人" />
+		<Ped name="csb_chef" caption="大廚" />
+		<Ped name="csb_chef2" caption="大廚 2" />
+		<Ped name="cs_chengsr" caption="陳偉" />
+		<Ped name="csb_chin_goon" caption="中國打手" />
+		<Ped name="cs_chrisformage" caption="克里斯" />
+		<Ped name="cs_clay" caption="克雷" />
+		<Ped name="csb_cletus" caption="克萊" />
+		<Ped name="csb_cop" caption="警察" />
+		<Ped name="csb_customer" caption="顧客" />
+		<Ped name="cs_dale" caption="戴利" />
+		<Ped name="cs_davenorton" caption="戴夫·諾頓" />
+		<Ped name="cs_debra" caption="黛布拉" />
+		<Ped name="cs_denise" caption="丹尼絲" />
+		<Ped name="csb_denise_friend" caption="丹尼絲的朋友" />
+		<Ped name="cs_devin" caption="德凡·韋斯頓" />
+		<Ped name="csb_dix" caption="迪克森" />
+		<Ped name="csb_djblamadon" caption="DJ黑色聖母" />
+		<Ped name="cs_dom" caption="唐姆" />
+		<Ped name="cs_dreyfuss" caption="彼特" />
+		<Ped name="cs_drfriedlander" caption="費藍德醫生" />
+		<Ped name="csb_drugdealer" caption="毒販" />
+		<Ped name="csb_englishdave" caption="英國佬戴夫" />
+        <Ped name="csb_englishdave_02" caption="英國佬戴夫 2" />
+		<Ped name="cs_fabien" caption="法比恩" />
+		<Ped name="cs_fbisuit_01" caption="FIB便衣" />
+		<Ped name="cs_floyd" caption="弗洛伊德" />
+		<Ped name="csb_fos_rep" caption="FOS代表?" />
+		<Ped name="csb_g" caption="傑瑞德" />
+		<Ped name="csb_georginacheng" caption="陳·喬治娜" />
+		<Ped name="csb_golfer_a" caption="高爾夫球手" />
+		<Ped name="csb_golfer_b" caption="高爾夫球手 2" />
+		<Ped name="csb_groom" caption="新郎" />
+		<Ped name="csb_grove_str_dlr" caption="格羅夫街經銷商" />
+		<Ped name="cs_guadalope" caption="瓜達洛普" />
+		<Ped name="cs_gurk" caption="古爾克？" />
+        <Ped name="csb_gustavo" caption="蓋茲塔沃" />
+		<Ped name="csb_hao" caption="阿浩" />
+		<Ped name="csb_hao_02" caption="阿浩 2" />
+        <Ped name="csb_helmsmanpavel" caption="舵手帕沃" />
+		<Ped name="csb_huang" caption="阿黃" />
+		<Ped name="csb_hugh" caption="威爾士" />
+		<Ped name="cs_hunter" caption="獵人" />
+        <Ped name="csb_imani" caption="伊瑪尼" />
+		<Ped name="csb_imran" caption="伊姆蘭" />
+        <Ped name="csb_isldj_00" caption="DJ 蘭帕" />
+        <Ped name="csb_isldj_01" caption="DJ &ME" />
+        <Ped name="csb_isldj_02" caption="DJ 亞當" />
+        <Ped name="csb_isldj_03" caption="DJ 帕瑪斯·崔克斯" />
+        <Ped name="csb_isldj_04" caption="DJ 穆迪曼" />
+        <Ped name="csb_moodyman_02" caption="DJ 穆迪曼 2" />
+		<Ped name="csb_jackhowitzer" caption="傑克" />
+		<Ped name="cs_janet" caption="珍妮特" />
+		<Ped name="csb_janitor" caption="看門人" />
+		<Ped name="cs_jewelass" caption="珠寶店營業員" />
+		<Ped name="cs_jimmyboston" caption="吉米·波士頓" />
+		<Ped name="cs_jimmydisanto" caption="吉米·迪聖塔" />
+		<Ped name="cs_jimmydisanto2" caption="吉米·迪聖塔 2" />
+        <Ped name="csb_jio" caption="吉米·艾歐文" />
+        <Ped name="csb_jio_02" caption="吉米·艾歐文 2" />
+		<Ped name="cs_joeminuteman" caption="民兵喬" />
+		<Ped name="csb_johnny_guns" caption="強尼·剛斯" />
+		<Ped name="cs_johnnyklebitz" caption="強尼·克雷比茲" />
+		<Ped name="cs_josef" caption="約瑟夫" />
+		<Ped name="cs_josh" caption="約瑟" />
+        <Ped name="csb_juanstrickler" caption="胡安·史崔克勒" />
+		<Ped name="cs_karen_daniels" caption="凱倫·丹尼爾斯" />
+		<Ped name="cs_lamardavis" caption="拉瑪·戴維斯" />
+		<Ped name="cs_lamardavis_02" caption="拉瑪·戴維斯 2" />
+		<Ped name="cs_lazlow" caption="雷茲羅" />
+		<Ped name="cs_lazlow_2" caption="雷茲羅 2" />
+		<Ped name="cs_lestercrest" caption="萊斯特·克瑞斯特" />
+		<Ped name="cs_lestercrest_2" caption="萊斯特·克瑞斯特 2" />
+		<Ped name="cs_lestercrest_3" caption="萊斯特·克瑞斯特 3" />
+		<Ped name="cs_lifeinvad_01" caption="瑞奇·魯肯斯" />
+		<Ped name="cs_magenta" caption="馬真塔" />
+		<Ped name="cs_manuel" caption="曼紐爾" />
+		<Ped name="cs_marnie" caption="瑪尼" />
+		<Ped name="cs_martinmadrazo" caption="馬丁·瑪德拉索" />
+		<Ped name="cs_maryann" caption="瑪麗安" />
+		<Ped name="csb_maude" caption="茉德" />
+		<Ped name="cs_michelle" caption="米歇爾" />
+        <Ped name="csb_miguelmadrazo" caption="米蓋爾·瑪德拉索" />
+		<Ped name="cs_milton" caption="米爾頓" />
+		<Ped name="csb_mimi" caption="米米" />
+        <Ped name="csb_mjo" caption="DJ 小熊" />
+        <Ped name="csb_mjo_02" caption="DJ 小熊 2" />
+		<Ped name="cs_molly" caption="莫莉" />
+		<Ped name="csb_money" caption="亞維·修瓦茲曼" />
+		<Ped name="csb_avischwartzman_02" caption="亞維·修瓦茲曼 2" />
+		<Ped name="cs_movpremf_01" caption="電影首映禮女性" />
+		<Ped name="cs_movpremmale" caption="電影首映禮男性" />
+		<Ped name="cs_mrk" caption="K先生" />
+		<Ped name="cs_mrsphillips" caption="菲利普夫人" />
+		<Ped name="csb_mrs_r" caption="拉克曼夫人" />
+		<Ped name="cs_mrs_thornhill" caption="梭西爾女士" />
+		<Ped name="csb_musician_00" caption="安德森·帕克" />
+		<Ped name="csb_mweather" caption="梅利威瑟" />
+		<Ped name="cs_natalia" caption="娜塔莉亞" />
+		<Ped name="cs_nervousron" caption="焦慮的小羅" />
+		<Ped name="cs_nigel" caption="奈杰爾" />
+		<Ped name="cs_old_man1a" caption="老漢 1" />
+		<Ped name="cs_old_man2" caption="老漢 2" />
+		<Ped name="cs_omega" caption="歐米伽" />
+		<Ped name="cs_orleans" caption="大腳怪" />
+		<Ped name="csb_ortega" caption="歐鐵佳" />
+		<Ped name="csb_oscar" caption="奧斯卡" />
+		<Ped name="csb_paige" caption="佩奇" />
+		<Ped name="cs_paper" caption="伯納德（ULP探員）" />
+		<Ped name="csb_party_promo" caption="派對促銷" />
+		<Ped name="cs_patricia" caption="派翠莎" />
+        <Ped name="cs_patricia_02" caption="派翠莎 2" />
+		<Ped name="csb_popov" caption="帕波夫" />
+		<Ped name="csb_porndudes" caption="花花公子" />
+		<Ped name="cs_priest" caption="神父" />
+		<Ped name="csb_prologuedriver" caption="序章司機" />
+		<Ped name="csb_prolsec" caption="序章保鏢" />
+		<Ped name="cs_prolsec_02" caption="序章保鏢 2" />
+		<Ped name="csb_ramp_gang" caption="巴勒幫（瘋狂殺戮）" />
+		<Ped name="csb_ramp_hic" caption="鄉巴佬（瘋狂殺戮）" />
+		<Ped name="csb_ramp_hipster" caption="潮客（瘋狂殺戮）" />
+		<Ped name="csb_ramp_marine" caption="軍隊（瘋狂殺戮）" />
+		<Ped name="csb_ramp_mex" caption="維戈斯幫（瘋狂殺戮）" />
+		<Ped name="csb_rashcosvki" caption="瑞許高夫斯基" />
+		<Ped name="csb_reporter" caption="記者" />
+        <Ped name="csb_req_officer" caption="軍備長" />
+		<Ped name="csb_roccopelosi" caption="洛科·裴羅西" />
+		<Ped name="cs_russiandrunk" caption="俄羅斯醉漢" />
+		<Ped name="csb_screen_writer" caption="編劇" />
+        <Ped name="csb_security_a" caption="保安" />
+		<Ped name="csb_sessanta" caption="希斯提" />
+		<Ped name="cs_siemonyetarian" caption="西門·葉塔瑞安" />
+		<Ped name="csb_sol" caption="索洛蒙" />
+		<Ped name="cs_solomon" caption="所羅門" />
+		<Ped name="csb_soundeng_00" caption="音響師" />
+        <Ped name="csb_sss" caption="史考特·史多奇" />
+		<Ped name="cs_stevehains" caption="史提夫·海因斯" />
+		<Ped name="cs_stretch" caption="史崔奇" />
+		<Ped name="csb_stripper_01" caption="脫衣舞女" />
+		<Ped name="csb_stripper_02" caption="脫衣舞女 2" />
+		<Ped name="csb_talcc" caption="我們的故事 1" />
+		<Ped name="csb_talmm" caption="我們的故事 2" />
+		<Ped name="cs_tanisha" caption="塔妮莎" />
+		<Ped name="cs_taocheng" caption="陳陶" />
+		<Ped name="cs_taocheng2" caption="陳陶 2" />
+		<Ped name="cs_taostranslator" caption="陳陶的翻譯" />
+		<Ped name="cs_taostranslator2" caption="陳陶的翻譯 2" />
+		<Ped name="cs_tenniscoach" caption="網球教練" />
+		<Ped name="cs_terry" caption="泰瑞" />
+		<Ped name="csb_thornton" caption="桑頓·杜根" />
+		<Ped name="cs_tom" caption="湯姆" />
+		<Ped name="csb_tomcasino" caption="湯姆·康諾斯" />
+		<Ped name="cs_tomepsilon" caption="邪教湯姆" />
+		<Ped name="csb_tonya" caption="童雅" />
+		<Ped name="csb_tonyprince" caption="東尼·普林斯" />
+		<Ped name="cs_tracydisanto" caption="崔西·迪聖塔" />
+		<Ped name="csb_trafficwarden" caption="交通管理員" />
+		<Ped name="csb_undercover" caption="臥底警察" />
+		<Ped name="csb_vagos_leader" caption="維戈斯幫領袖" />
+		<Ped name="csb_vagspeak" caption="維戈斯幫主講" />
+		<Ped name="csb_vernon" caption="弗農" />
+		<Ped name="csb_vincent" caption="文森特" />
+		<Ped name="csb_vincent_2" caption="文森特 2" />
+		<Ped name="cs_wade" caption="韋德" />
+		<Ped name="csb_wendy" caption="溫迪" />
+		<Ped name="cs_zimbor" caption="津布爾" />
+	</Category>
+	<Category name="GangFemale">
+		<Ped name="g_f_y_ballas_01" caption="巴勒幫女性" />
+		<Ped name="g_f_y_families_01" caption="家族幫女性" />
+		<Ped name="g_f_importexport_01" caption="進出口大亨女性" />
+		<Ped name="g_f_y_lost_01" caption="失落飛車族女性" />
+		<Ped name="g_f_y_vagos_01" caption="維戈斯幫女性" />
+	</Category>
+	<Category name="GangMale">
+		<Ped name="g_m_importexport_01" caption="幫派男性" />
+		<Ped name="g_m_m_armboss_01" caption="亞美尼亞老闆" />
+		<Ped name="g_m_m_armgoon_01" caption="亞美尼亞打手" />
+		<Ped name="g_m_y_armgoon_02" caption="亞美尼亞打手 2" />
+		<Ped name="g_m_m_armlieut_01" caption="亞美尼亞上尉" />
+		<Ped name="g_m_y_azteca_01" caption="阿茲泰克" />
+		<Ped name="g_m_y_ballaeast_01" caption="巴勒東部男性" />
+		<Ped name="g_m_y_ballaorig_01" caption="巴勒原住民男性" />
+		<Ped name="g_m_y_ballasout_01" caption="巴勒南部男性" />
+        <Ped name="g_m_m_cartelguards_01" caption="販毒集團守衛" />
+        <Ped name="g_m_m_cartelguards_02" caption="販毒集團守衛 2" />
+		<Ped name="g_m_m_casrn_01" caption="賭客" />
+		<Ped name="g_m_m_chemwork_01" caption="化工厂工人" />
+		<Ped name="g_m_m_chiboss_01" caption="中國老板" />
+		<Ped name="g_m_m_chigoon_01" caption="中國打手" />
+		<Ped name="g_m_m_chigoon_02" caption="中國打手 2" />
+		<Ped name="g_m_m_chicold_01" caption="中國老漢打手" />
+		<Ped name="g_m_y_famca_01" caption="血盟CA男性" />
+		<Ped name="g_m_y_famdnf_01" caption="血盟DNF男性" />
+		<Ped name="g_m_y_famfor_01" caption="血盟FOR男性" />
+		<Ped name="g_m_m_goons_01" caption="暴徒" />
+		<Ped name="g_m_m_korboss_01" caption="韓國老板" />
+		<Ped name="g_m_y_korlieut_01" caption="韓國上尉" />
+		<Ped name="g_m_y_korean_01" caption="年輕韓國男性" />
+		<Ped name="g_m_y_korean_02" caption="年輕韓國男性 2" />
+		<Ped name="g_m_m_mexboss_01" caption="墨西哥老板" />
+		<Ped name="g_m_m_mexboss_02" caption="墨西哥老板 2" />
+		<Ped name="g_m_y_mexgang_01" caption="墨西哥幫派成員" />
+		<Ped name="g_m_y_mexgoon_01" caption="墨西哥打手" />
+		<Ped name="g_m_y_mexgoon_02" caption="墨西哥打手 2" />
+		<Ped name="g_m_y_mexgoon_03" caption="墨西哥打手 3" />
+		<Ped name="g_m_y_pologoon_01" caption="波利尼西亞打手" />
+		<Ped name="g_m_y_pologoon_02" caption="波利尼西亞打手 2" />
+		<Ped name="g_m_m_prisoners_01" caption="囚犯" />
+		<Ped name="g_m_y_salvaboss_01" caption="薩爾瓦多老板" />
+		<Ped name="g_m_y_salvagoon_01" caption="薩爾瓦多打手" />
+		<Ped name="g_m_y_salvagoon_02" caption="薩爾瓦多打手 2" />
+		<Ped name="g_m_y_salvagoon_03" caption="薩爾瓦多打手 3" />
+		<Ped name="g_m_m_slasher_01" caption="殺人狂" />
+		<Ped name="g_m_y_strpunk_01" caption="街頭朋克男" />
+		<Ped name="g_m_y_strpunk_02" caption="街頭朋克男 2" />
+		<Ped name="g_m_y_lost_01" caption="失落飛車族男性" />
+		<Ped name="g_m_y_lost_02" caption="失落飛車族男性 2" />
+		<Ped name="g_m_y_lost_03" caption="失落飛車族男性 3" />
+	</Category>
+	<Category name="Story">
+		<Ped name="player_zero" caption="麥可" />
+		<Ped name="player_one" caption="富蘭克林" />
+		<Ped name="player_two" caption="崔佛" />
+		<Ped name="ig_abigail" caption="艾比蓋兒" />
+		<Ped name="ig_agatha" caption="阿嘉莎·貝克" />
+		<Ped name="ig_agent" caption="探員" />
+		<Ped name="ig_mp_agent14" caption="探員 14" />
+		<Ped name="ig_amandatownley" caption="亞曼達" />
+		<Ped name="ig_andreas" caption="桑切斯" />
+		<Ped name="ig_ary" caption="德瑞" />
+		<Ped name="ig_ary_02" caption="德瑞 2" />
+		<Ped name="ig_ashley" caption="艾希莉" />
+		<Ped name="ig_avery" caption="艾佛瑞·杜根" />
+		<Ped name="ig_avon" caption="埃文·赫茲" />
+		<Ped name="ig_ballas_leader.ydd" caption="巴勒幫領袖" />
+		<Ped name="ig_ballasog" caption="巴勒幫老大" />
+		<Ped name="ig_bankman" caption="銀行經理" />
+		<Ped name="ig_barry" caption="巴瑞" />
+		<Ped name="ig_benny" caption="班尼" />
+		<Ped name="ig_benny_02" caption="班尼 2" />
+		<Ped name="ig_bestmen" caption="伴郎" />
+		<Ped name="ig_beverly" caption="比佛利" />
+		<Ped name="ig_billionaire" caption="億萬富翁" />
+		<Ped name="ig_brad" caption="布萊德" />
+		<Ped name="ig_bride" caption="新娘" />
+		<Ped name="ig_brucie2" caption="布魯斯" />
+		<Ped name="ig_car3guy1" caption="汽修工 1" />
+		<Ped name="ig_car3guy2" caption="汽修工 2" />
+		<Ped name="ig_casey" caption="凱西" />
+		<Ped name="ig_celeb_01" caption="名人" />
+		<Ped name="ig_chef" caption="大廚" />
+		<Ped name="ig_chef2" caption="大廚 2" />
+		<Ped name="ig_chengsr" caption="陳偉" />
+		<Ped name="ig_clay" caption="克雷" />
+		<Ped name="ig_claypain" caption="MC 克利普" />
+		<Ped name="ig_cletus" caption="克萊" />
+		<Ped name="ig_chrisformage" caption="克里斯" />
+		<Ped name="ig_dale" caption="戴爾" />
+		<Ped name="ig_davenorton" caption="戴夫·諾頓" />
+		<Ped name="ig_denise" caption="丹尼絲" />
+		<Ped name="ig_devin" caption="德凡" />
+		<Ped name="ig_dix" caption="迪克森" />
+		<Ped name="ig_djblamadon" caption="DJ黑色聖母" />
+		<Ped name="ig_djblamrupert" caption="DJ魯伯特" />
+		<Ped name="ig_djblamryans" caption="DJ瑞安S" />
+		<Ped name="ig_djdixmanager" caption="DJ迪克森經紀人" />
+		<Ped name="ig_djgeneric_01" caption="普通 DJ" />
+		<Ped name="ig_djsolfotios" caption="DJ福蒂奧斯" />
+		<Ped name="ig_djsoljakob" caption="DJ雅各布布" />
+		<Ped name="ig_djsolmanager" caption="索洛蒙經紀人" />
+		<Ped name="ig_djsolmike" caption="DJ麥克T" />
+		<Ped name="ig_djsolrobt" caption="DJ羅博 T" />
+		<Ped name="ig_djtalaurelia" caption="DJ奧利亞" />
+		<Ped name="ig_djtalignazio" caption="DJ伊格納齊奧" />
+		<Ped name="ig_dom" caption="唐姆" />
+		<Ped name="ig_dreyfuss" caption="彼特" />
+		<Ped name="ig_drfriedlander" caption="費藍德醫生" />
+		<Ped name="ig_drugdealer" caption="毒販" />
+		<Ped name="ig_englishdave" caption="英國佬戴夫" />
+        <Ped name="ig_englishdave_02" caption="英國佬戴夫 2" />
+        <Ped name="ig_entourage_a" caption="隨從" />
+        <Ped name="ig_entourage_b" caption="隨從 2" />
+		<Ped name="ig_fabien" caption="法比恩" />
+		<Ped name="ig_ramp_gang" caption="巴勒幫（瘋狂殺戮）" />
+		<Ped name="ig_mrk" caption="費迪南德（K先生）" />
+		<Ped name="ig_fbisuit_01" caption="FIB便衣" />
+		<Ped name="ig_floyd" caption="弗洛伊德" />
+		<Ped name="ig_g" caption="傑瑞德" />
+		<Ped name="ig_georginacheng" caption="陳·喬治娜" />
+		<Ped name="ig_golfer_a" caption="高爾夫球手" />
+		<Ped name="ig_golfer_b" caption="高爾夫球手 2" />
+		<Ped name="ig_groom" caption="新郎" />
+        <Ped name="ig_gustavo" caption="蓋茲塔沃" />
+		<Ped name="ig_hao" caption="阿浩" />
+		<Ped name="ig_hao_02" caption="阿浩 2" />
+		<Ped name="ig_ramp_hic" caption="鄉巴佬（瘋狂殺戮）" />
+		<Ped name="ig_ramp_hipster" caption="潮客（瘋狂殺戮）" />
+        <Ped name="ig_helmsmanpavel" caption="舵手帕沃" />
+		<Ped name="ig_huang" caption="阿黃" />
+		<Ped name="ig_hunter" caption="獵人" />
+		<Ped name="ig_imani" caption="伊瑪尼" />
+        <Ped name="ig_isldj_00" caption="DJ 蘭帕" />
+        <Ped name="ig_isldj_01" caption="DJ &ME" />
+        <Ped name="ig_isldj_02" caption="DJ 亞當" />
+        <Ped name="ig_isldj_03" caption="DJ 帕瑪斯·崔克斯" />
+        <Ped name="ig_isldj_04" caption="DJ 穆迪曼" />
+		<Ped name="ig_moodyman_02" caption="DJ 穆迪曼 2" />
+        <Ped name="ig_isldj_04_D_01" caption="小島DJ 4D" />
+        <Ped name="ig_isldj_04_D_02" caption="小島DJ 4D2" />
+        <Ped name="ig_isldj_04_E_01" caption="小島DJ 4E" />
+        <Ped name="ig_jackie" caption="賈姬" />
+		<Ped name="ig_janet" caption="珍妮特" />
+		<Ped name="ig_jay_norris" caption="阿傑·諾瑞斯" />
+		<Ped name="ig_jewelass" caption="珠寶店營業員" />
+		<Ped name="ig_jimmyboston" caption="吉米·波士頓" />
+		<Ped name="ig_jimmyboston_02" caption="吉米·波士頓 2" />
+		<Ped name="ig_jimmydisanto" caption="吉米·迪聖塔" />
+		<Ped name="ig_jimmydisanto2" caption="吉米·迪聖塔 2" />
+        <Ped name="ig_jio" caption="吉米·艾歐文" />
+        <Ped name="ig_jio_02" caption="吉米·艾歐文 2" />
+		<Ped name="ig_joeminuteman" caption="民兵喬" />
+		<Ped name="ig_johnny_guns" caption="強尼·剛斯" />
+		<Ped name="ig_johnnyklebitz" caption="強尼·克雷比茲" />
+		<Ped name="ig_josef" caption="約瑟夫" />
+		<Ped name="ig_josh" caption="約瑟" />
+        <Ped name="ig_juanstrickler" caption="胡安·史崔克勒" />
+        <Ped name="ig_kaylee" caption="凱莉" />
+		<Ped name="ig_karen_daniels" caption="凱倫·丹尼爾斯" />
+		<Ped name="ig_kerrymcintosh" caption="克里" />
+		<Ped name="ig_kerrymcintosh_02" caption="克里 2" />
+		<Ped name="ig_lacey_jones_02" caption="蕾絲" />
+		<Ped name="ig_lamardavis" caption="拉瑪·戴維斯" />
+		<Ped name="ig_lamardavis_02" caption="拉瑪·戴維斯 2" />
+		<Ped name="ig_lazlow" caption="雷茲羅" />
+		<Ped name="ig_lazlow_2" caption="雷茲羅 2" />
+		<Ped name="ig_lestercrest" caption="萊斯特·克瑞斯特" />
+		<Ped name="ig_lestercrest_2" caption="萊斯特·克瑞斯特 2" />
+		<Ped name="ig_lestercrest_3" caption="萊斯特·克瑞斯特 3" />
+		<Ped name="ig_lifeinvad_01" caption="瑞奇·魯肯斯" />
+		<Ped name="ig_lifeinvad_02" caption="全都露" />
+		<Ped name="ig_lildee" caption="小迪" />
+		<Ped name="ig_magenta" caption="馬真塔" />
+		<Ped name="ig_manuel" caption="曼紐爾" />
+		<Ped name="ig_marnie" caption="瑪尼" />
+		<Ped name="ig_maryann" caption="瑪麗安" />
+		<Ped name="ig_maude" caption="茉德" />
+		<Ped name="ig_rashcosvki" caption="瑞許高夫斯基" />
+		<Ped name="ig_ramp_mex" caption="維戈斯幫（瘋狂殺戮）" />
+		<Ped name="ig_michelle" caption="米歇爾" />
+        <Ped name="ig_miguelmadrazo" caption="米格爾·瑪德拉索" />
+		<Ped name="ig_milton" caption="米爾頓" />
+		<Ped name="ig_mimi" caption="米米" />
+        <Ped name="ig_malc" caption="馬爾可" />
+		<Ped name="ig_molly" caption="茉莉" />
+		<Ped name="ig_money" caption="亞維·修瓦茲曼" />
+		<Ped name="ig_avischwartzman_02" caption="亞維·修瓦茲曼 2" />
+		<Ped name="ig_mrsphillips" caption="菲利普夫人" />
+		<Ped name="ig_mrs_thornhill" caption="梭西爾女士" />
+        <Ped name="ig_mjo" caption="DJ 小熊" />
+        <Ped name="ig_mjo_02" caption="DJ 小熊 2" />
+        <Ped name="ig_musician_00" caption="安德森·帕克" />
+		<Ped name="ig_natalia" caption="娜塔莉亞" />
+		<Ped name="ig_nervousron" caption="焦慮的小羅" />
+		<Ped name="ig_nigel" caption="奈傑爾" />
+		<Ped name="ig_old_man1a" caption="老漢 1" />
+		<Ped name="ig_old_man2" caption="老漢 2" />
+		<Ped name="ig_omega" caption="歐米伽" />
+        <Ped name="ig_oldrichguy" caption="伊凡" />
+		<Ped name="ig_oneil" caption="歐尼爾兄弟" />
+		<Ped name="ig_orleans" caption="大腳怪" />
+		<Ped name="ig_ortega" caption="歐鐵佳" />
+		<Ped name="ig_paige" caption="佩奇" />
+		<Ped name="ig_paper" caption="伯納德（ULP探員）" />
+		<Ped name="ig_party_promo" caption="派對促銷" />
+		<Ped name="ig_patricia" caption="派翠莎" />
+		<Ped name="ig_patricia_02" caption="派翠莎 2" />
+        <Ped name="ig_pilot" caption="機長" />
+		<Ped name="ig_popov" caption="帕波夫" />
+		<Ped name="ig_priest" caption="神父" />
+		<Ped name="ig_prolsec_02" caption="序章保鏢 2" />
+		<Ped name="ig_req_officer" caption="軍備長" />
+		<Ped name="ig_roccopelosi" caption="洛科·裴羅西" />
+		<Ped name="ig_russiandrunk" caption="俄羅斯醉漢" />
+		<Ped name="ig_sacha" caption="薩加教徒" />
+		<Ped name="ig_screen_writer" caption="編劇" />
+		<Ped name="ig_security_a" caption="保安" />
+		<Ped name="ig_sessanta" caption="希斯提" />
+		<Ped name="ig_siemonyetarian" caption="西門·葉塔瑞安" />
+		<Ped name="ig_sol" caption="索洛蒙" />
+		<Ped name="ig_solomon" caption="所羅門" />
+		<Ped name="ig_soundeng_00" caption="音響師" />
+        <Ped name="ig_sss" caption="史考特·史多奇" />
+		<Ped name="ig_stevehains" caption="史提夫·海因斯" />
+		<Ped name="ig_stretch" caption="史崔奇" />
+		<Ped name="ig_talcc" caption="我們的故事 1" />
+		<Ped name="ig_talina" caption="塔利納" />
+		<Ped name="ig_talmm" caption="我們的故事 2" />
+		<Ped name="ig_tanisha" caption="塔妮莎" />
+		<Ped name="ig_taocheng" caption="陳陶" />
+        <Ped name="ig_taocheng2" caption="陳陶 2" />
+		<Ped name="ig_taostranslator" caption="陳陶的翻譯" />
+        <Ped name="ig_taostranslator2" caption="陳陶的翻譯 2" />
+		<Ped name="ig_tenniscoach" caption="網球教練" />
+		<Ped name="ig_terry" caption="泰瑞" />
+		<Ped name="ig_thornton" caption="桑頓·杜根" />
+		<Ped name="ig_tomcasino" caption="湯姆·康諾斯" />
+		<Ped name="ig_tomepsilon" caption="邪教湯姆" />
+		<Ped name="ig_tonya" caption="童雅" />
+		<Ped name="ig_tonyprince" caption="東尼·普林斯" />
+		<Ped name="ig_tracydisanto" caption="崔西·迪聖塔" />
+		<Ped name="ig_trafficwarden" caption="交通管理員" />
+		<Ped name="ig_tylerdix" caption="泰勒·迪克森" />
+		<Ped name="ig_tylerdix_02" caption="泰勒·迪克森 2" />
+		<Ped name="ig_vagos_leader" caption="維戈斯領袖" />
+		<Ped name="ig_vagspeak" caption="維戈斯主講" />
+		<Ped name="ig_vernon" caption="弗農" />
+		<Ped name="ig_vincent" caption="文森特" />
+		<Ped name="ig_vincent_2" caption="文森特 2" />
+		<Ped name="ig_vincent_3" caption="文森特 3" />
+		<Ped name="ig_wade" caption="韋德" />
+		<Ped name="ig_wendy" caption="溫迪" />
+		<Ped name="ig_zimbor" caption="津布爾" />
+	</Category>
+	<Category name="Multiplayer">
+		<Ped name="mp_s_m_armoured_01" caption="裝甲車男保鏢" />
+		<Ped name="mp_m_avongoon" caption="埃文克隆人" />
+		<Ped name="mp_f_boatstaff_01" caption="女船工" />
+		<Ped name="mp_m_boatstaff_01" caption="男船工" />
+		<Ped name="mp_m_bogdangoon" caption="伯格丹打手" />
+		<Ped name="mp_f_bennymech_01" caption="班尼汽修工" />
+		<Ped name="mp_f_cardesign_01" caption="辦公室車庫汽修工" />
+		<Ped name="mp_f_chbar_01" caption="俱樂部酒吧女性" />
+		<Ped name="mp_m_claude_01" caption="克勞德·斯平德" />
+		<Ped name="mp_f_cocaine_01" caption="古柯鹼製造廠女員工" />
+		<Ped name="mp_m_cocaine_01" caption="古柯鹼製造廠男員工" />
+		<Ped name="mp_f_counterfeit_01" caption="偽證件製造廠女員工" />
+		<Ped name="mp_m_counterfeit_01" caption="偽證件製造廠男員工" />
+		<Ped name="mp_f_deadhooker" caption="死去的妓女" />
+		<Ped name="mp_f_forgery_01" caption="偽鈔製造廠女員工" />
+		<Ped name="mp_m_forgery_01" caption="偽鈔製造廠男員工）" />
+		<Ped name="mp_f_meth_01" caption="安毒製造廠女員工" /> 
+		<Ped name="mp_m_meth_01" caption="安毒製造廠男員工" />
+		<Ped name="mp_m_exarmy_01" caption="退役男兵" />
+		<Ped name="mp_f_execpa_01" caption="女助理" />
+		<Ped name="mp_f_execpa_02" caption="女助理 2" />
+		<Ped name="mp_m_execpa_01" caption="男助理" />
+		<Ped name="mp_m_famdd_01" caption="血盟DD男性" />
+		<Ped name="mp_m_fibsec_01" caption="FIB保鏢" />
+		<Ped name="mp_f_freemode_01" caption="線上女性" />
+		<Ped name="mp_m_freemode_01" caption="線上男性" />
+		<Ped name="mp_f_helistaff_01" caption="直升機女機師" />
+		<Ped name="mp_m_marston_01" caption="約翰·馬斯頓" />
+		<Ped name="mp_f_misty_01" caption="米斯蒂" />
+		<Ped name="mp_m_niko_01" caption="尼克·貝裡克" />
+		<Ped name="mp_g_m_pros_01" caption="面具男" />
+		<Ped name="mp_m_securoguard_01" caption="安保警衛" />
+		<Ped name="mp_m_shopkeep_01" caption="店老闆" />
+		<Ped name="mp_f_stripperlite" caption="簡裝脫衣舞女" />
+		<Ped name="mp_m_g_vagfun_01" caption="維戈斯幫葬禮成員" />
+		<Ped name="mp_m_waremech_01" caption="倉庫汽修工" />
+  		<Ped name="mp_m_weapexp_01" caption="軍火出口" />
+  		<Ped name="mp_m_weapwork_01" caption="軍火工人" />
+		<Ped name="mp_f_weed_01" caption="大麻製造廠女員工" />
+		<Ped name="mp_m_weed_01" caption="大麻製造廠男員工" />
+	</Category>
+	<Category name="ScenarioFemale">
+		<Ped name="s_f_y_airhostess_01" caption="空姐" />
+		<Ped name="s_f_m_autoshop_01" caption="女技工" />
+		<Ped name="s_f_m_fembarber" caption="女理髮師" />
+		<Ped name="s_f_y_bartender_01" caption="酒保" />
+		<Ped name="s_f_y_baywatch_01" caption="女救生員" />
+        <Ped name="s_f_y_beachbarstaff_01" caption="音樂櫃女酒保" />
+		<Ped name="s_f_y_casino_01" caption="賭場女員工" />
+		<Ped name="s_f_y_cop_01" caption="女警察" />
+		<Ped name="s_f_y_factory_01" caption="工場女工" />
+		<Ped name="s_f_y_hooker_01" caption="妓女" />
+		<Ped name="s_f_y_hooker_02" caption="妓女 2" />
+		<Ped name="s_f_y_hooker_03" caption="妓女 3" />
+		<Ped name="s_f_y_scrubs_01" caption="醫院女清潔工" />
+		<Ped name="s_f_m_maid_01" caption="女僕" />
+		<Ped name="s_f_y_migrant_01" caption="外來女" />
+		<Ped name="s_f_y_movprem_01" caption="電影首映禮女性" />
+		<Ped name="s_f_y_ranger_01" caption="女護林員" />
+		<Ped name="s_f_m_retailstaff_01" caption="零售員工" />
+		<Ped name="s_f_m_shop_high" caption="營業員（高檔）" />
+		<Ped name="s_f_y_shop_low" caption="營業員（低檔）" />
+		<Ped name="s_f_y_shop_mid" caption="營業員（中檔）" />
+		<Ped name="s_f_y_sheriff_01" caption="女警長" />
+		<Ped name="s_f_y_stripper_01" caption="脫衣舞女" />
+		<Ped name="s_f_y_stripper_02" caption="脫衣舞女 2" />
+		<Ped name="s_f_y_stripperlite" caption="簡裝脫衣舞女" />
+		<Ped name="s_f_m_studioassist_01" caption="事務所女助手" />
+		<Ped name="s_f_m_sweatshop_01" caption="血汗工廠工人" />
+		<Ped name="s_f_y_sweatshop_01" caption="血汗工廠年輕工人" />
+		<Ped name="s_f_y_clubbar_01" caption="俱樂部女酒保" />
+        <Ped name="s_f_y_clubbar_02" caption="俱樂部女酒保 2" />
+	</Category>
+	<Category name="ScenarioMale">
+		<Ped name="s_m_y_airworker" caption="機場男工" />
+		<Ped name="s_m_m_movalien_01" caption="外星人" />
+		<Ped name="s_m_y_ammucity_01" caption="武裝國度老闆（市區）" />
+		<Ped name="s_m_m_ammucountry" caption="武裝國度老闆（鄉村）" />
+		<Ped name="s_m_m_armoured_01" caption="裝甲車保鏢" />
+		<Ped name="s_m_m_armoured_02" caption="裝甲車保鏢 2" />
+		<Ped name="s_m_y_armymech_01" caption="陸軍技師" />
+		<Ped name="s_m_y_autopsy_01" caption="剖尸技師" />
+		<Ped name="s_m_m_autoshop_01" caption="技工" />
+		<Ped name="s_m_m_autoshop_02" caption="技工 2" />
+		<Ped name="s_m_m_autoshop_03" caption="技工 3" />
+		<Ped name="s_m_y_barman_01" caption="酒吧男招待" />
+		<Ped name="s_m_y_clubbar_01" caption="俱樂部男酒保" />
+		<Ped name="s_m_m_cntrybar_01" caption="酒保（鄉村）" />
+		<Ped name="s_m_y_baywatch_01" caption="男救生員" />
+		<Ped name="s_m_y_blackops_01" caption="特種兵" />
+		<Ped name="s_m_y_blackops_02" caption="特種兵 2" />
+		<Ped name="s_m_y_blackops_03" caption="特種兵 3" />
+		<Ped name="s_m_m_bouncer_01" caption="門衛" />
+        <Ped name="s_m_m_bouncer_02" caption="門衛 2" />
+		<Ped name="s_m_y_busboy_01" caption="餐館雜工" />
+		<Ped name="s_m_o_busker_01" caption="街頭藝人" />
+        <Ped name="s_m_y_casino_01" caption="賭場男員工" />
+		<Ped name="s_m_y_chef_01" caption="廚師" />
+		<Ped name="s_m_m_chemsec_01" caption="化工廠保鏢" />
+		<Ped name="s_m_y_clown_01" caption="小丑" />
+		<Ped name="s_m_y_construct_01" caption="建築工人" />
+		<Ped name="s_m_y_construct_02" caption="建築工人 2" />
+		<Ped name="s_m_y_cop_01" caption="男警察" />
+		<Ped name="s_m_m_ccrew_01" caption="成員" />
+		<Ped name="s_m_y_dealer_01" caption="經銷商" />
+		<Ped name="s_m_y_devinsec_01" caption="德凡的保鏢" />
+		<Ped name="s_m_m_dockwork_01" caption="碼頭工人" />
+		<Ped name="s_m_y_dockwork_01" caption="碼頭工人" />
+		<Ped name="s_m_m_doctor_01" caption="醫生" />
+		<Ped name="s_m_y_doorman_01" caption="看門人" />
+        <Ped name="s_m_m_drugprocess_01" caption="制毒人員" />
+		<Ped name="s_m_y_dwservice_01" caption="DW機場工人" />
+		<Ped name="s_m_y_dwservice_02" caption="DW機場工人 2" />
+		<Ped name="s_m_y_factory_01" caption="工場男工" />
+		<Ped name="s_m_m_fiboffice_01" caption="FIB辦公室員工" />
+		<Ped name="s_m_m_fiboffice_02" caption="FIB辦公室員工 2" />
+		<Ped name="s_m_m_fibsec_01" caption="FIB保鏢" />
+        <Ped name="s_m_m_fieldworker_01" caption="農民" />
+		<Ped name="s_m_y_fireman_01" caption="男消防員" />
+		<Ped name="s_m_m_gaffer_01" caption="工頭" />
+		<Ped name="s_m_y_garbage" caption="垃圾工" />
+		<Ped name="s_m_m_gardener_01" caption="園丁" />
+		<Ped name="s_m_y_grip_01" caption="格里普" />
+		<Ped name="s_m_m_hairdress_01" caption="男理髮師" />
+		<Ped name="s_m_m_highsec_01" caption="高級保鏢" />
+		<Ped name="s_m_m_highsec_02" caption="高級保鏢 2" />
+		<Ped name="s_m_m_highsec_03" caption="高級保鏢 3" />
+        <Ped name="s_m_m_highsec_04" caption="高級保鏢 4" />
+        <Ped name="s_m_m_highsec_05" caption="高級保鏢 5" />
+		<Ped name="s_m_y_hwaycop_01" caption="高速公路警察" />
+		<Ped name="s_m_m_ciasec_01" caption="IAA保鏢" />
+		<Ped name="s_m_m_janitor" caption="看門人" />
+		<Ped name="s_m_m_lathandy_01" caption="拉丁裔男工" />
+		<Ped name="s_m_m_lifeinvad_01" caption="全都露男子" />
+		<Ped name="s_m_m_linecook" caption="流水線廚師" />
+		<Ped name="s_m_m_lsmetro_01" caption="洛聖都地鐵男工作人員" />
+		<Ped name="s_m_m_mariachi_01" caption="墨西哥流浪藝人、" />
+		<Ped name="s_m_m_marine_01" caption="海軍陸戰隊" />
+		<Ped name="s_m_m_marine_02" caption="海軍陸戰隊 2" />
+		<Ped name="s_m_y_marine_01" caption="年輕海軍陸戰隊" />
+		<Ped name="s_m_y_marine_02" caption="年輕海軍陸戰隊 2" />
+		<Ped name="s_m_y_marine_03" caption="年輕海軍陸戰隊 3" />
+		<Ped name="s_m_y_xmech_01" caption="汽修工" />
+		<Ped name="s_m_y_xmech_02" caption="汽修工 2" />
+		<Ped name="s_m_y_xmech_02_mp" caption="汽修工 2" />
+		<Ped name="s_m_m_migrant_01" caption="外來男" />
+		<Ped name="s_m_y_mime" caption="啞劇表演者" />
+		<Ped name="s_m_m_movspace_01" caption="電影宇航員" />
+		<Ped name="s_m_m_movprem_01" caption="電影首映禮男性" />
+		<Ped name="s_m_m_paramedic_01" caption="護理人員" />
+		<Ped name="s_m_y_pestcont_01" caption="害蟲防治" />
+		<Ped name="s_m_m_pilot_01" caption="飛行員" />
+		<Ped name="s_m_y_pilot_01" caption="飛行員" />
+		<Ped name="s_m_m_pilot_02" caption="飛行員 2" />
+		<Ped name="s_m_m_postal_01" caption="男郵遞員" />
+		<Ped name="s_m_m_postal_02" caption="男郵遞員 2" />
+		<Ped name="s_m_m_prisguard_01" caption="監獄警衛" />
+		<Ped name="s_m_y_prisoner_01" caption="囚犯" />
+		<Ped name="s_m_y_prismuscl_01" caption="囚犯（肌肉型）" />
+		<Ped name="s_m_m_raceorg_01" caption="競速主辦方" />
+		<Ped name="s_m_y_ranger_01" caption="男護林員" />
+		<Ped name="s_m_y_robber_01" caption="強盜" />
+		<Ped name="s_m_y_shop_mask" caption="面具營業員" />
+		<Ped name="s_m_m_scientist_01" caption="科學家" />
+		<Ped name="s_m_m_security_01" caption="安保警衛" />
+		<Ped name="s_m_y_sheriff_01" caption="男警長" />
+		<Ped name="s_m_m_snowcop_01" caption="雪地男警察" />
+		<Ped name="s_m_m_strperf_01" caption="街頭表演者" />
+		<Ped name="s_m_m_strpreach_01" caption="街頭傳教士" />
+		<Ped name="s_m_m_strvend_01" caption="街頭小販" />
+		<Ped name="s_m_y_strvend_01" caption="街頭年輕小販" />
+		<Ped name="s_m_m_studioassist_02" caption="錄音室男助手" />
+		<Ped name="s_m_m_studioprod_01" caption="錄音室產品" />
+		<Ped name="s_m_m_studiosoueng_02" caption="錄音室音響師" />
+		<Ped name="s_m_y_swat_01" caption="特警隊員" />
+		<Ped name="s_m_m_gentransport" caption="男運輸員" />
+		<Ped name="s_m_m_tattoo_01" caption="車聚紋身師" />
+		<Ped name="s_m_m_trucker_01" caption="男卡車司機" />
+		<Ped name="s_m_m_ups_01" caption="UPS司機" />
+		<Ped name="s_m_m_ups_02" caption="UPS司機 2" />
+		<Ped name="s_m_y_uscg_01" caption="US 海岸警衛隊員" />
+		<Ped name="s_m_y_valet_01" caption="男僕" />
+		<Ped name="s_m_y_waiter_01" caption="侍應" />
+		<Ped name="s_m_y_westsec_01" caption="杜根保鏢" />
+		<Ped name="s_m_y_westsec_02" caption="杜根保鏢 2" />
+		<Ped name="s_m_y_winclean_01" caption="門窗清潔者" />
+		<Ped name="s_m_y_waretech_01" caption="倉庫技工" />
+	</Category>
+	<Category name="StoryScenarioFemale">
+		<Ped name="u_f_y_beth" caption="貝思" />
+		<Ped name="u_f_y_bikerchic" caption="騎車時髦女" />
+		<Ped name="u_f_o_carol" caption="卡羅爾" />
+		<Ped name="u_f_m_casinocash_01" caption="賭場出納" />
+		<Ped name="u_f_m_casinoshop_01" caption="賭場服裝店主" />
+		<Ped name="u_f_y_comjane" caption="簡" />
+		<Ped name="u_f_m_corpse_01" caption="女尸" />
+		<Ped name="u_f_y_corpse_01" caption="年輕女尸" />
+		<Ped name="u_f_y_corpse_02" caption="年輕女尸 2" />
+		<Ped name="u_f_y_danceburl_01" caption="蕾絲舞女" />
+		<Ped name="u_f_y_dancelthr_01" caption="皮衣舞女" />
+		<Ped name="u_f_y_dancerave_01" caption="塗鴉舞女" />
+		<Ped name="u_f_m_debbie_01" caption="黛比" />
+		<Ped name="u_f_o_eileen" caption="艾琳" />
+		<Ped name="u_f_y_hotposh_01" caption="辣妹" />
+		<Ped name="u_f_y_jewelass_01" caption="珠寶店營業員" />
+		<Ped name="u_f_y_lauren" caption="勞倫" />
+		<Ped name="u_f_m_miranda" caption="米蘭達" />
+		<Ped name="u_f_m_miranda_02" caption="米蘭達 2" />
+		<Ped name="u_f_y_mistress" caption="情婦" />
+		<Ped name="u_f_o_moviestar" caption="電影女星" />
+		<Ped name="u_f_y_poppymich" caption="波比·米雪兒" />
+		<Ped name="u_f_y_poppymich_02" caption="波比·米雪兒 2" />
+		<Ped name="u_f_y_princess" caption="公主" />
+		<Ped name="u_f_o_prolhost_01" caption="序章老婦" />
+		<Ped name="u_f_m_promourn_01" caption="序章女性哀悼者" />
+		<Ped name="u_f_y_spyactress" caption="女間諜演員" />
+		<Ped name="u_f_y_taylor" caption="泰勒" />
+	</Category>
+	<Category name="StoryScenarioMale">
+		<Ped name="u_m_y_abner" caption="阿布納" />
+		<Ped name="u_m_m_aldinapoli" caption="阿爾迪那不勒斯男性" />
+		<Ped name="u_m_y_antonb" caption="安東" />
+		<Ped name="u_m_y_babyd" caption="小D" />
+		<Ped name="u_m_m_bankman" caption="銀行經理" />
+		<Ped name="u_m_y_baygor" caption="邪教男" />
+		<Ped name="u_m_m_bikehire_01" caption="租車男" />
+		<Ped name="u_m_m_blane" caption="布蘭" />
+		<Ped name="u_m_y_burgerdrug_01" caption="漢堡王吸毒工人" />
+		<Ped name="u_m_y_caleb" caption="卡雷布" />
+		<Ped name="u_m_y_chip" caption="奇普" />
+		<Ped name="u_m_y_corpse_01" caption="尸體" />
+		<Ped name="u_m_y_croupthief_01" caption="賭場小賊" />
+		<Ped name="u_m_m_curtis" caption="柯蒂斯" />
+		<Ped name="u_m_y_cyclist_01" caption="男騎手" />
+		<Ped name="u_m_y_danceburl_01" caption="蕾絲男舞者" />
+		<Ped name="u_m_y_dancelthr_01" caption="皮衣男舞者" />
+		<Ped name="u_m_y_dancerave_01" caption="塗鴉男舞者" />
+		<Ped name="u_m_o_dean" caption="迪恩" />
+		<Ped name="u_m_m_doa_01" caption="緝毒局人員" />
+		<Ped name="u_m_m_edtoh" caption="埃托" />
+		<Ped name="u_m_m_fibarchitect" caption="FIB建築師" />
+		<Ped name="u_m_y_fibmugger_01" caption="FIB搶劫犯" />
+		<Ped name="u_m_m_filmdirector" caption="電影導演" />
+		<Ped name="u_m_o_filmnoir" caption="電影死尸（西裝）" />
+		<Ped name="u_m_o_finguru_01" caption="金融大鱷" />
+		<Ped name="u_m_m_vince" caption="文斯" />
+		<Ped name="u_m_y_gabriel" caption="加布里埃爾" />
+		<Ped name="u_m_m_glenstank_01" caption="格倫斯塔克男性" />
+		<Ped name="u_m_m_griff_01" caption="格里夫" />
+		<Ped name="u_m_y_guido_01" caption="詹尼" />
+		<Ped name="u_m_y_gunvend_01" caption="軍火商" />
+		<Ped name="u_m_y_hippie_01" caption="嬉皮男" />
+		<Ped name="u_m_y_imporage" caption="無能狂怒人" />
+		<Ped name="u_m_m_jesus_01" caption="耶穌" />
+		<Ped name="u_m_m_jewelsec_01" caption="珠寶店保鏢" />
+		<Ped name="u_m_m_jewelthief" caption="珠寶大盜" />
+		<Ped name="u_m_y_juggernaut_01" caption="重甲兵" />
+		<Ped name="u_m_y_justin" caption="賈斯丁" />
+		<Ped name="u_m_y_mani" caption="馬尼" />
+		<Ped name="u_m_m_markfost" caption="馬克" />
+		<Ped name="u_m_y_militarybum" caption="流浪漢" />
+		<Ped name="u_m_y_paparazzi" caption="年輕男狗仔" />
+		<Ped name="u_m_y_party_01" caption="派對賓客" />
+		<Ped name="u_m_m_partytarget" caption="派對主人" />
+		<Ped name="u_m_y_pogo_01" caption="帕高猴" />
+		<Ped name="u_m_y_prisoner_01" caption="囚犯" />
+		<Ped name="u_m_y_proldriver_01" caption="序幕司機" />
+		<Ped name="u_m_m_prolsec_01" caption="序章保鏢" />
+		<Ped name="u_m_m_promourn_01" caption="序章送葬男" />
+		<Ped name="u_m_m_rivalpap" caption="競爭對手狗仔" />
+		<Ped name="u_m_y_rsranger_01" caption="太空游騎兵" />
+		<Ped name="u_m_y_sbike" caption="摩托車騎手" />
+		<Ped name="u_m_y_smugmech_01" caption="機庫技工" />
+		<Ped name="u_m_m_spyactor" caption="間諜演員" />
+		<Ped name="u_m_y_staggrm_01" caption="男性聚會新郎" />
+		<Ped name="u_m_m_streetart_01" caption="街頭男藝人" />
+		<Ped name="u_m_o_taphillbilly" caption="塔菲爾·比利" />
+		<Ped name="u_m_y_tattoo_01" caption="紋身技師" />
+		<Ped name="u_m_o_tramp_01" caption="流浪老漢" />
+		<Ped name="u_m_y_ushi" caption="烏什" />
+		<Ped name="u_m_m_willyfist" caption="愛之拳威利" />
+		<Ped name="u_m_y_zombie_01" caption="僵尸" />
+	</Category>
+	<Category name="Others">
+		<Ped name="hc_driver" caption="珠寶搶劫司機" />
+		<Ped name="hc_gunman" caption="珠寶搶劫槍手" />
+		<Ped name="hc_hacker" caption="珠寶搶劫黑客" />
+		<Ped name="p_franklin_02" caption="富蘭克林 2" />
+	</Category>
+</PedList>

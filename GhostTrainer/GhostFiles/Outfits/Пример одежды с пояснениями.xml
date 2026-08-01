@@ -1,0 +1,171 @@
+<!-- 
+Пример шмоток, что из-себя представляют параметры в этом трейнере
++ Мой Онлайн персонаж
+true - Включить параметр
+false - Отключить параметр
+ -->
+<!--  -->
+<?xml version="1.0"?>
+<OutfitPedData> 
+
+ <!-- Настройка персонажа --><PedProperties>
+<IsStill>false</IsStill>
+<CanRagdoll>false</CanRagdoll>
+<!-- Небольшой рост --><HasShortHeight>false</HasShortHeight>
+<!-- Количество брони --><Armour>0</Armour>
+
+<!-- Hash оружия --><CurrentWeapon>0xa2719263</CurrentWeapon>
+
+<HeadFeatures WasInArray="true">
+<!-- Родство --><ShapeAndSkinTone>
+<!-- Похожесть на отца --><ShapeFatherId>25</ShapeFatherId>
+<!-- Похожесть на мать --><ShapeMotherId>0</ShapeMotherId>
+<!-- Голова  предка--><ShapeOverrideId>0</ShapeOverrideId>
+
+<!-- Тон кожи от отца --><ToneFatherId>25</ToneFatherId>
+<!-- Тон кожи от мамы --><ToneMotherId>0</ToneMotherId>
+<!-- Тон кожи головы предка" --><ToneOverrideId>0</ToneOverrideId>
+
+<!-- Степень похожести --><ShapeVal>0.0500000007</ShapeVal>
+<!-- Тон кожи --><ToneVal>0.313851386</ToneVal>
+<!-- Тон кожи головы предка" --><OverrideVal>0</OverrideVal>
+
+<IsP>1</IsP>
+</ShapeAndSkinTone>
+<!-- Цвет волос --><HairColour>15</HairColour>
+<!-- Мелирование --><HairColourStreaks>29</HairColourStreaks>
+<!-- Цвет глаз --><EyeColour>1</EyeColour>
+
+<!-- Лицо --><FacialFeatures>
+<!-- Ширина носа --><_0>-0.268359</_0>
+<!-- Высота носа --><_1>-0.800794</_1>
+<!-- Длина кончика носа --><_2>0.590625</_2>
+<!-- Глубина носового мостика --><_3>0.230953</_3>
+<!-- Высота кончика носа --><_4>0.101984</_4>
+<!-- Сломанный нос --><_5>0.229297</_5>
+<!-- Высота бровей --><_6>0.270635</_6>
+<!-- Глубина бровей --><_7>0.503125</_7>
+<!-- Высота скул --><_8>-0.523016</_8>
+<!-- Ширина скул --><_9>-0.356250</_9>
+<!-- Глубина щёк --><_10>0.580859</_10>
+<!-- Размер глаз --><_11>-0.522656</_11>
+<!-- Толщина губ --><_12>-0.708203</_12>
+<!-- Ширина челюсти --><_13>-0.951953</_13>
+<!-- Форма челюсти --><_14>-0.989286</_14>
+<!-- Высота подбородка --><_15>-0.513096</_15>
+<!-- Глубина подбородка --><_16>-0.375781</_16>
+<!-- Ширина подбородочной кости --><_17>-0.991407</_17>
+<!-- Подбородочный отступ --><_18>0.000397</_18>
+<!-- Ширина шеи --><_19>0.500000</_19>
+</FacialFeatures>
+
+<!-- Макияж --><Overlays>
+<!-- Повреждения кожи --><_0 index="255" colour="0" colourSecondary="0" opacity="1" />
+<!-- Волосы на лице --><_1 index="255" colour="0" colourSecondary="0" opacity="1" />
+<!-- Брови --><_2 index="17" colour="0" colourSecondary="0" opacity="1" />
+<!-- Старение кожи --><_3 index="255" colour="0" colourSecondary="0" opacity="1" />
+<!-- Макияж и лицевая раскраска --><_4 index="5" colour="0" colourSecondary="0" opacity="0.980654895" />
+<!-- Румяна --><_5 index="255" colour="0" colourSecondary="0" opacity="1" />
+<!-- Тип кожи --><_6 index="0" colour="0" colourSecondary="0" opacity="0.688616157" />
+<!-- Дефекты кожи --><_7 index="255" colour="0" colourSecondary="0" opacity="1" />
+<!-- Помада --><_8 index="5" colour="0" colourSecondary="0" opacity="0.705357194" />
+<!-- Родинки и веснушки --><_9 index="10" colour="0" colourSecondary="0" opacity="1" />
+<!-- Волосы на груди --><_10 index="255" colour="0" colourSecondary="0" opacity="1" />
+<!-- Пятна на груди --><_11 index="7" colour="0" colourSecondary="0" opacity="1" />
+<!-- Пятна на груди 2 --><_12 index="255" colour="0" colourSecondary="0" opacity="1" />
+</Overlays>
+
+</HeadFeatures>
+
+<!--
+1) Модель
+2) Текстура
+-1,-1 убрать компонент
+-->
+<!-- Одежда --><PedComps>
+<!-- Голова --><_0>0,0</_0>
+<!-- Маска/борода --><_1>0,0</_1>
+<!-- Волосы --><_2>86,0</_2>
+<!-- Тело --><_3>15,0</_3>
+<!-- Ноги --><_4>15,0</_4>
+<!-- Руки/рюкзаки --><_5>0,0</_5>
+<!-- Обувь --><_6>35,0</_6>
+<!-- Шарф/ожерелье/браслеты --><_7>0,0</_7>
+<!-- Нижняя одежда --><_8>-1,0</_8>
+<!-- Броня/снаряжение --><_9>0,0</_9>
+<!-- Эмблема --><_10>0,0</_10>
+<!-- Верхняя одежда --><_11>-1,0</_11>
+</PedComps>
+
+<!-- Акссесуары к одежде --><PedProps>
+<!-- Головные уборы --><_0>-1,-1</_0>
+<!-- Очки --><_1>-1,-1</_1>
+<!-- Серьги --><_2>-1,-1</_2>
+<!-- Unknown 3 --><_3>-1,-1</_3>
+<!-- Unknown 4 --><_4>-1,-1</_4>
+<!-- Unknown 5 --><_5>-1,-1</_5>
+<!-- Часы --><_6>-1,-1</_6>
+<!-- Браслеты --><_7>-1,-1</_7>
+<!-- Unknown 8 --><_8>-1,-1</_8>
+<!-- Unknown 9 --><_9>-1,-1</_9>
+</PedProps>
+
+<!-- Татуировки --><TattooLogoDecals />
+<!-- Татуировки b Декали Имеют вот такой вид хеш
+<!-- 0x23a7a83b спина наверное хз
+
+<:anonymous collection="0x23a7a83b" value="0xacca3c76" />
+<:anonymous collection="0x23a7a83b" value="0x1adc189c" />
+<:anonymous collection="0x4185083d" value="0x7e9802e2" />
+
+<!-- Повреждения --><DamagePacks />
+<!-- Имеют вот такой вид
+<DamagePacks>
+<:anonymous>SCR_Franklin_finb2</:anonymous>
+<:anonymous>Useful_Bits</:anonymous>
+<:anonymous>Explosion_Med</:anonymous>
+<:anonymous>Explosion_Large</:anonymous>
+<:anonymous>Dirt_Dry</:anonymous>
+</DamagePacks>
+-->
+
+<RelationshipGroupAltered>false</RelationshipGroupAltered>
+<RelationshipGroup>0x6f0783f5</RelationshipGroup>
+<ScenarioActive>false</ScenarioActive>
+<Animations />
+</PedProperties>
+
+<!-- Атрибуты -->
+<!-- Очистка от декалей перед применением --><ClearDecalOverlays>true</ClearDecalOverlays>
+<!-- Хеш модели персонажа--><ModelHash>0x9c9effd8</ModelHash>
+<HashName>0x9c9effd8</HashName>
+<Type>1</Type>
+<Dynamic>true</Dynamic>
+<!-- Заморозка на позиции не работает тут --><FrozenPos>true</FrozenPos>
+<InitialHandle>236302</InitialHandle>
+<OpacityLevel>255</OpacityLevel>
+<LodDistance>240</LodDistance>
+<IsVisible>true</IsVisible>
+<MaxHealth>175</MaxHealth>
+<Health>175</Health>
+<HasGravity>true</HasGravity>
+<IsOnFire>false</IsOnFire>
+<IsInvincible>true</IsInvincible>
+<IsBulletProof>true</IsBulletProof>
+<IsCollisionProof>false</IsCollisionProof>
+<IsExplosionProof>true</IsExplosionProof>
+<IsFireProof>true</IsFireProof>
+<IsMeleeProof>true</IsMeleeProof>
+<IsOnlyDamagedByPlayer>false</IsOnlyDamagedByPlayer>
+
+<PositionRotation>
+<X>86.0655746</X>
+<Y>-1380.83801</Y>
+<Z>29.2915459</Z>
+<Pitch>-0</Pitch>
+<Roll>-0</Roll>
+<Yaw>-54.2803993</Yaw>
+</PositionRotation>
+<Attachment isAttached="false" />
+<SpoonerAttachments SetAttachmentsPersistentAndAddToSpoonerDatabase="true" StartTaskSequencesOnLoad="true" />
+</OutfitPedData>
