@@ -1,0 +1,52 @@
+<Face>
+    <HeadBlendData>
+        <ShapeFirst value="25"/>
+        <ShapeSecond value="0"/>
+        <ShapeThird value="0"/>
+        <SkinFirst value="25"/>
+        <SkinSecond value="0"/>
+        <SkinThird value="0"/>
+        <ShapeMix value="0.050000001"/>
+        <SkinMix value="0.31385139"/>
+        <ThirdMix value="0"/>
+    </HeadBlendData>
+    <HeadOverlays>
+        <HeadOverlay name="Blemishes" type="0" value="255" opacity="1" color="0" secondaryColor="0"/>
+        <HeadOverlay name="Facial Hair" type="1" value="255" opacity="1" color="0" secondaryColor="0"/>
+        <HeadOverlay name="Eyebrows" type="2" value="17" opacity="1" color="0" secondaryColor="0"/>
+        <HeadOverlay name="Ageing" type="3" value="255" opacity="1" color="0" secondaryColor="0"/>
+        <HeadOverlay name="Makeup" type="4" value="5" opacity="0.9806549" color="0" secondaryColor="0"/>
+        <HeadOverlay name="Blush" type="5" value="255" opacity="1" color="0" secondaryColor="0"/>
+        <HeadOverlay name="Complexion" type="6" value="0" opacity="0.68861616" color="0" secondaryColor="0"/>
+        <HeadOverlay name="Sun Damage" type="7" value="255" opacity="1" color="0" secondaryColor="0"/>
+        <HeadOverlay name="Lipstick" type="8" value="5" opacity="0.70535719" color="0" secondaryColor="0"/>
+        <HeadOverlay name="Moles/Freckles" type="9" value="10" opacity="1" color="0" secondaryColor="0"/>
+        <HeadOverlay name="Chest Hair" type="10" value="255" opacity="1" color="0" secondaryColor="0"/>
+        <HeadOverlay name="Body Blemishes" type="11" value="7" opacity="1" color="0" secondaryColor="0"/>
+        <HeadOverlay name="AddBody Blemishes" type="12" value="255" opacity="0" color="0" secondaryColor="0"/>
+    </HeadOverlays>
+    <FaceFeatures>
+        <FaceFeature name="Nose Width" type="0" scale="-0.26835901"/>
+        <FaceFeature name="Nose Peak Height" type="1" scale="-0.80079401"/>
+        <FaceFeature name="Nose Peak Length" type="2" scale="0.59062499"/>
+        <FaceFeature name="Nose Bone Height" type="3" scale="0.23095299"/>
+        <FaceFeature name="Nose Peak Lowering" type="4" scale="0.101984"/>
+        <FaceFeature name="Nose Bone Twist" type="5" scale="0.229297"/>
+        <FaceFeature name="Eye Brown Height" type="6" scale="0.27063501"/>
+        <FaceFeature name="Eye Brown Forward" type="7" scale="0.50312501"/>
+        <FaceFeature name="Cheeks Bone Height" type="8" scale="-0.52301598"/>
+        <FaceFeature name="Cheeks Bone Width" type="9" scale="-0.35624999"/>
+        <FaceFeature name="Cheeks Width" type="10" scale="0.58085901"/>
+        <FaceFeature name="Eyes Openning" type="11" scale="-0.52265602"/>
+        <FaceFeature name="Lips Thickness" type="12" scale="-0.70820302"/>
+        <FaceFeature name="Jaw Bone Width" type="13" scale="-0.95195299"/>
+        <FaceFeature name="Jaw Bone Back Length" type="14" scale="-0.98928601"/>
+        <FaceFeature name="Chimp Bone Lowering" type="15" scale="-0.51309597"/>
+        <FaceFeature name="Chimp Bone Length" type="16" scale="-0.375781"/>
+        <FaceFeature name="Chimp Bone Width" type="17" scale="-0.99140698"/>
+        <FaceFeature name="Chimp Hole" type="18" scale="0.000397"/>
+        <FaceFeature name="Neck Thikness" type="19" scale="0.5"/>
+    </FaceFeatures>
+    <HairColor value="15" highLight="29"/>
+    <EyeColor value="1"/>
+</Face>
